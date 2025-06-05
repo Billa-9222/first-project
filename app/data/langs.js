@@ -1,7 +1,7 @@
 export const langs = {
   name: {
-    en: "Alisher Narzulloev",
-    ru: "Алишер Нарзуллоев",
+    en: "Alimardonova Jamila",
+    ru: "Алимардонова Джамила",
   },
   home: {
     en: "Home",
@@ -24,11 +24,11 @@ export const langs = {
     ru: "Контакты",
   },
   short_info: {
-    en: "Frontend developer 24 years old, Dushanbe",
-    ru: "Фронтенд-разработчик 24 года, Душанбе",
+    en: "Frontend developer 23 years old, Dushanbe",
+    ru: "Фронтенд-разработчик 23 года, Душанбе",
   },
   about_me_text1: {
-    en:"Hello, I'm Dennis - Frontend developer from Dushanbe. I have 3 years of experience in web development.",
+    en: "Hello, I'm Dennis - Frontend developer from Dushanbe. I have 3 years of experience in web development.",
     ru: "Привет, я Денис - фронтенд-разработчик из Душанбе. Меня интересует дизайн и все, что с ним связано.",
   },
   about_me_text2: {
@@ -38,5 +38,5 @@ export const langs = {
   about_me_text3: {
     en: "Ready to implement excellent projects with wonderful people.",
     ru: "Готов реализовывать отличные проекты с замечательными людьми.",
-    },
+  },
 };
